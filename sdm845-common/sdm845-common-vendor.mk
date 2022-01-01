@@ -24,6 +24,8 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sdm845-common/proprietary/framework/tcmclient.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/tcmclient.jar \
     vendor/oneplus/sdm845-common/proprietary/system/system_ext/lib/libsdm-disp-apis.qti.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/system_ext/lib/libsdm-disp-apis.qti.so \
     vendor/oneplus/sdm845-common/proprietary/system/system_ext/lib64/libsdm-disp-apis.qti.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/system_ext/lib64/libsdm-disp-apis.qti.so \
+    vendor/oneplus/sdm845-common/proprietary/vendor/lib/libsdm-disp-apis.qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsdm-disp-apis.qti.so \
+    vendor/oneplus/sdm845-common/proprietary/vendor/lib64/libsdm-disp-apis.qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdm-disp-apis.qti.so \
     vendor/oneplus/sdm845-common/proprietary/system_ext/bin/dpmd:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/dpmd \
     vendor/oneplus/sdm845-common/proprietary/system_ext/bin/wfdservice:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/wfdservice \
     vendor/oneplus/sdm845-common/proprietary/system_ext/etc/dpm/dpm.conf:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/dpm/dpm.conf \
